@@ -4,10 +4,11 @@
     <title>The Carry</title>
     <link>https://adil1248.github.io/c697ba1d3413965680/</link>
     <atom:link href="https://adil1248.github.io/c697ba1d3413965680/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>A weekly half-hour on the decisions that are sitting still. Part one prices what it costs to leave each one open. Part two takes one thread on the long climb to ten million and pushes it forward. The two halves are usually the same story.</description>
     <language>en-us</language>
     <copyright>The Carry</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 13:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:42:24 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/c697ba1d3413965680/cover.jpg</url>
@@ -21,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:owner><itunes:name>The Carry</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 2 — 2026-09-16</title>
+      <link>https://adil1248.github.io/c697ba1d3413965680/</link>
+      <guid isPermaLink="false">the-carry-2026-09-16-1a6dbc56</guid>
+      <pubDate>Wed, 16 Sep 2026 22:35:47 +0000</pubDate>
+      <description>&lt;p&gt;What this episode is asking you to decide.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=""&gt;Determine the PBL reopen procedure and reopen the Sedgwick claim to draw the remaining ~4 weeks before the 2027-05-06 forfeiture deadline.&lt;/a&gt; — pbl-reopen-claim&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;At TY2026 filing: confirm the return carries the ROLLOVER notation on Form 1040 line 4a/4b against the Robinhood 1099-R&lt;/a&gt; — ty2026-rollover-notation-filing&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;Redraft the Jefferson Capital/Velocity FCRA dispute letters substituting the DOFD pulled from the fresh 09-13 CreditWise TU data&lt;/a&gt; — jefferson-velocity-letters-review&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;Apply online for the free IRS 180-day short-term payment plan on the $22,736 TY2025 balance (IRS Online Account -&amp;gt; Online Payment Agreement). $0 setup fee, instant approval under $&lt;/a&gt; — irs-opa-short-term-plan&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>What this episode is asking you to decide.</p><ul><li><a href="">Determine the PBL reopen procedure and reopen the Sedgwick claim to draw the remaining ~4 weeks before the 2027-05-06 forfeiture deadline.</a> — pbl-reopen-claim</li><li><a href="">At TY2026 filing: confirm the return carries the ROLLOVER notation on Form 1040 line 4a/4b against the Robinhood 1099-R</a> — ty2026-rollover-notation-filing</li><li><a href="">Redraft the Jefferson Capital/Velocity FCRA dispute letters substituting the DOFD pulled from the fresh 09-13 CreditWise TU data</a> — jefferson-velocity-letters-review</li><li><a href="">Apply online for the free IRS 180-day short-term payment plan on the $22,736 TY2025 balance (IRS Online Account -&gt; Online Payment Agreement). $0 setup fee, instant approval under $</a> — irs-opa-short-term-plan</li></ul>]]></content:encoded>
+      <itunes:title>Episode 2 — 2026-09-16</itunes:title>
+      <itunes:summary>&lt;p&gt;What this episode is asking you to decide.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=""&gt;Determine the PBL reopen procedure and reopen the Sedgwick claim to draw the remaining ~4 weeks before the 2027-05-06 forfeiture deadline.&lt;/a&gt; — pbl-reopen-claim&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;At TY2026 filing: confirm the return carries the ROLLOVER notation on Form 1040 line 4a/4b against the Robinhood 1099-R&lt;/a&gt; — ty2026-rollover-notation-filing&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;Redraft the Jefferson Capital/Velocity FCRA dispute letters substituting the DOFD pulled from the fresh 09-13 CreditWise TU data&lt;/a&gt; — jefferson-velocity-letters-review&lt;/li&gt;&lt;li&gt;&lt;a href=""&gt;Apply online for the free IRS 180-day short-term payment plan on the $22,736 TY2025 balance (IRS Online Account -&amp;gt; Online Payment Agreement). $0 setup fee, instant approval under $&lt;/a&gt; — irs-opa-short-term-plan&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>The Carry</itunes:author>
+      <itunes:duration>775</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/c697ba1d3413965680/episodes/2026-09-16.mp3" length="9308637" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 1 — 2026-09-07</title>
       <link>https://adil1248.github.io/c697ba1d3413965680/</link>
