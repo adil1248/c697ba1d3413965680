@@ -8,7 +8,7 @@
     <description>A weekly half-hour on the decisions that are sitting still. Part one prices what it costs to leave each one open. Part two takes one thread on the long climb to ten million and pushes it forward. The two halves are usually the same story.</description>
     <language>en-us</language>
     <copyright>The Carry</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 16:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:32:15 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/c697ba1d3413965680/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
     <itunes:owner><itunes:name>The Carry</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 7 — 2026-10-21</title>
+      <link>https://adil1248.github.io/c697ba1d3413965680/</link>
+      <guid isPermaLink="false">the-carry-2026-10-21-01b982be</guid>
+      <pubDate>Wed, 21 Oct 2026 22:30:40 +0000</pubDate>
+      <description>&lt;p&gt;What this episode is asking you to decide.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>What this episode is asking you to decide.</p>]]></content:encoded>
+      <itunes:title>Episode 7 — 2026-10-21</itunes:title>
+      <itunes:summary>&lt;p&gt;What this episode is asking you to decide.&lt;/p&gt;</itunes:summary>
+      <itunes:author>The Carry</itunes:author>
+      <itunes:duration>231</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/c697ba1d3413965680/episodes/2026-10-21.mp3" length="2782204" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 6 — 2026-10-14</title>
       <link>https://adil1248.github.io/c697ba1d3413965680/</link>
